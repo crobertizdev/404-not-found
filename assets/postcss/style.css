@@ -1,38 +1,54 @@
+@import './variables.css';
 @import './normalize.css';
 @import './reset.css';
 @import './wrapper.css';
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-basic);
+  font-size: var(--font-md);
 }
 
-ul {
-  padding-left: 24px;
+.nav {
+  margin: 2rem 0 6.4rem 0;
 }
 
-li {
-  margin-bottom: 8px;
+.nav__title {
+  font-weight: 700;
+  font-size: var(--font-lg);
+  color: var(--black1);
+}
+.header {
+  display: grid;
+  gap: 6rem;
 }
 
-.welcome {
-  max-width: 800px;
-  margin: 0 auto;
+.header__image {
+  width: 29rem;
+  justify-self: center;
 }
 
-.welcome-text {
-  margin-top: 30vh;
-  font-weight: 500;
+.header__text {
+  display: grid;
+  gap: 3rem;
+  justify-items: start;
 }
 
-.welcome-text p {
-  font-size: 1rem;
+.header__title {
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--black1);
+}
+.header__subtitle {
+  font-size: var(--font-lg);
+  color: var(--black2);
+  margin-bottom: 3rem;
   font-weight: 400;
 }
 
-.welcome-text h1 {
-  font-size: 1.5rem;
-}
-
-.welcome-text a {
-  color: #f7542e;
+.button {
+  background: var(--black1);
+  color: var(--white);
+  padding: 2rem;
+  font-weight: 700;
+  margin-bottom: 4rem;
 }

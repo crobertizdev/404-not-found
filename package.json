@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "postcss ./assets/postcss/style.css --output ./assets/css/style.css",
-    "watch": "postcss ./assets/postcss/style.css --output ./assets/css/style.css --watch"
+    "watch": "postcss ./assets/postcss/style.css --output ./assets/css/style.css --watch",
+    "deploy": "gh-pages -d ."
   },
   "author": "Carlos Robertiz",
   "license": "ISC",

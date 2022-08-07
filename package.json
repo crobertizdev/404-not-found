@@ -15,5 +15,8 @@
     "postcss": "^8.4.16",
     "postcss-cli": "^10.0.0",
     "postcss-import": "^14.1.0"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
   }
 }

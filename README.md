@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://crobertizdev.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/crobertizdev/404-not-found/">
       Solution
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  <!-- - [Built With](#built-with) -->
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,22 +36,24 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot desktop](https://i.ibb.co/xgtTDgp/desktop.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
+- Your wisdom? :) -->
 
-### Built With
+<!-- Es un proyecto relativamente sencillo que use para probar mis habilidades de maquetación web, pero además me dio a entender lo sencillo que es maquetar cuando tienes una idea en tu cabeza de la estructura del sitio. Antes de ponerme a codear realize una estructura en mi cabeza de los elementos que iban a estructurar el sitio, esto me permitió tener un foco y terminar mas rápido de lo común el proyecto planteado. Es un proyecto que aún se podría mejorar pero es un buen comienzo. -->
+
+<!-- ### Built With -->
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
+<!-- - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Tailwind](https://tailwindcss.com/) -->
 
 ## Features
 
@@ -59,17 +61,19 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
+- [PostCSS](https://postcss.org/)
+- [Postcss installation, configuration and plugins](https://desarrolloweb.com/home/postcss)
+- [import plugin for postcss](https://github.com/postcss/postcss-import)
+- [404 Not Found Mockup in figma](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=1%3A4)
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Introduction to npm](https://www.hostinger.es/tutoriales/que-es-npm#:~:text=Si%20ya%20tienes%20Node%20y,la%20inicializaci%C3%B3n%20de%20tu%20proyecto.&text=Este%20comando%20funciona%20como%20una,json%20de%20un%20proyecto.)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [portfolio](https://crobertizdev.github.io/portfolio/)
+- GitHub [@crobertizdev](https://github.com/crobertizdev)
+- Twitter [@crobertizdev](https://twitter.com/crobertizdev)

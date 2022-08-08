@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "postcss ./src/postcss/style.css --output ./dist/assets/css/style.css",
     "watch": "postcss ./src/postcss/style.css --output ./dist/assets/css/style.css --watch",
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d ./dist/"
   },
   "author": "Carlos Robertiz",
   "license": "ISC",

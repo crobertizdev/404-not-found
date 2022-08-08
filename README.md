@@ -36,14 +36,16 @@
 
 ## Overview
 
-![screenshot desktop](./designs/desktop.png)
+![screenshot desktop](https://i.ibb.co/xgtTDgp/desktop.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
+- Your wisdom? :) -->
+
+<!-- Es un proyecto relativamente sencillo que use para probar mis habilidades de maquetación web, pero además me dio a entender lo sencillo que es maquetar cuando tienes una idea en tu cabeza de la estructura del sitio. Antes de ponerme a codear realize una estructura en mi cabeza de los elementos que iban a estructurar el sitio, esto me permitió tener un foco y terminar mas rápido de lo común el proyecto planteado. Es un proyecto que aún se podría mejorar pero es un buen comienzo. -->
 
 <!-- ### Built With -->
 

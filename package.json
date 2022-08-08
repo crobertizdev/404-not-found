@@ -5,8 +5,8 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "postcss ./assets/postcss/style.css --output ./assets/css/style.css",
-    "watch": "postcss ./assets/postcss/style.css --output ./assets/css/style.css --watch",
+    "build": "postcss ./src/postcss/style.css --output ./dist/assets/css/style.css",
+    "watch": "postcss ./src/postcss/style.css --output ./dist/assets/css/style.css --watch",
     "deploy": "gh-pages -d ."
   },
   "author": "Carlos Robertiz",

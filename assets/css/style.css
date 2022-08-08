@@ -387,7 +387,7 @@ body {
 }
 .nav__title {
   font-weight: 700;
-  font-size: 2.4rem;
+  font-size: 2rem;
   color: var(--black1);
   text-align: start;
 }
@@ -427,6 +427,7 @@ body {
 .footer__text {
   margin-bottom: 2.4rem;
   color: var(--footer-text);
+  font-size: 1.4rem;
 }
 .footer__text a {
   color: var(--footer-text);

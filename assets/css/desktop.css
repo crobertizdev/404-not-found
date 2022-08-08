@@ -21,6 +21,11 @@
 .button {
   margin-bottom: 0;
 }
+
+.footer {
+  position: absolute;
+  bottom: 2.4rem;
+}
 .footer__text {
   margin-bottom: 0;
 }

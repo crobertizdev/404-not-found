@@ -2,22 +2,34 @@
 @import './normalize.css';
 @import './reset.css';
 @import './wrapper.css';
-@import './desktop.css' (min-width: 768px);
+
+html {
+  height: 100%;
+}
 
 body {
   font-family: var(--font-basic);
-  font-size: var(--font-md);
+  font-size: 1.6rem;
+  height: 100%;
 }
 
+.wrapper--header {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
 .nav {
   margin: 2rem 0 6.4rem 0;
+  justify-self: start;
 }
 
 .nav__title {
   font-weight: 700;
-  font-size: var(--font-lg);
+  font-size: 2.4rem;
   color: var(--black1);
+  text-align: start;
 }
+
 .header {
   display: grid;
   gap: 6rem;
@@ -25,7 +37,7 @@ body {
 }
 
 .header__image {
-  width: 29rem;
+  width: 50rem;
   justify-self: center;
 }
 
@@ -36,12 +48,12 @@ body {
 }
 
 .header__title {
-  font-size: 4rem;
+  font-size: 4.8rem;
   font-weight: 700;
   color: var(--black1);
 }
 .header__subtitle {
-  font-size: var(--font-lg);
+  font-size: 1.8rem;
   color: var(--black2);
   margin-bottom: 3rem;
   font-weight: 400;
@@ -50,8 +62,19 @@ body {
 .button {
   background: var(--black1);
   color: var(--white);
-  padding: 2rem;
+  padding: 2.4rem;
   font-weight: 700;
-  margin-bottom: 4rem;
+  margin-bottom: 11.4rem;
   cursor: pointer;
+}
+
+.footer__text {
+  margin-bottom: 2.4rem;
+  color: var(--footer-text);
+}
+
+.footer__text a {
+  color: var(--footer-text);
+  font-weight: 700;
+  text-decoration: underline;
 }

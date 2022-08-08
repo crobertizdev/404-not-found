@@ -1,0 +1,26 @@
+.wrapper--header {
+  position: relative;
+}
+
+.nav {
+  position: absolute;
+  top: 4rem;
+  margin: 0;
+}
+
+.header {
+  grid-template-columns: 1fr 1fr;
+}
+.header__title {
+  font-size: 6.4rem;
+}
+.header__subtitle {
+  font-size: 2.4rem;
+}
+
+.button {
+  margin-bottom: 0;
+}
+.footer__text {
+  margin-bottom: 0;
+}
